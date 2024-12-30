@@ -1,0 +1,9 @@
+#head{
+    background-color: black;
+    padding: 12px 0;
+}
+.headerMain{
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+}

@@ -1,0 +1,17 @@
+.navBg{
+    padding: 20px 0 !important;
+    border-bottom: 0.7px solid gray;
+}
+.link{
+    margin-right: 48px !important;
+    font-size: 16px;
+    font-weight: 700 !important;
+}
+.icons{
+    margin: 0 8px !important;
+}
+.formWrite{
+    font-size: 12px !important;
+    font-weight: 400 !important;
+    margin-right: 100px !important;
+}
