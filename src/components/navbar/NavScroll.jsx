@@ -1,5 +1,5 @@
 import React from 'react'
-import './NavScroll.css';
+import './navscroll.css';
 import {  Container, Form , Nav , Navbar , NavDropdown , Button  } from 'react-bootstrap';
 import logo from '../../assets/logo.png';
 import { FaSearch , FaRegHeart  } from "react-icons/fa";
