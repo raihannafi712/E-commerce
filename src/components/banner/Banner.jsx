@@ -41,6 +41,8 @@ const Banner = () => {
         arrows:false,
         dots: true,
         infinite:true,
+        autoplay: true,
+        autoplaySpeed: 1000,
         nextArrow: <SampleNextArrow />,
         prevArrow: <SamplePrevArrow />
       };

@@ -1,0 +1,74 @@
+#sales{
+    padding: 140px 0 80px 0;
+}
+.salesOne span{
+    padding-left: 16px !important;
+    font-size: 24px !important;
+    font-weight: 500;
+    color: red; 
+}
+.salesTwo{
+    padding: 24px 0 32px 0 ;
+}
+.head{
+    font-size: 36px;
+    font-weight: 600;
+    color: black;
+}
+#demo p , span{
+    font-size: 36px;
+    font-weight: 700;
+    color: black;
+}
+.colon{
+    padding-left: 12px;
+    color: red;
+    font-size: 20pxpx;
+}
+.counter{
+    margin-bottom: -20px;
+}
+.counter p{
+    font-size: 14px;
+    font-weight: 500;
+    color: black;
+}
+.flashArrow span{
+    font-size: 20px;
+    margin-left: 8px;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    background-color: #F5F5F5;
+    padding: 10px;
+    cursor: pointer;
+}
+.offer{
+    padding: 40px 0 60px 0;
+}
+.btnMain a{
+    color: white;
+    background-color: #DB4444;
+    padding: 16px 48px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+.btnMain a:hover{
+    background-color: rgb(5, 1, 11);
+    text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff, 0 0 30px #ff00ff, 0 0 40px #ff00ff, 0 0 50px #ff00ff, 0 0 60px #ff00ff, 0 0 70px #ff00ff;
+    transition: ease-in-out;
+    -webkit-transition: ease-in-out;
+    -moz-transition: ease-in-out;
+    -ms-transition: ease-in-out;
+    -o-transition: ease-in-out;
+    transition-duration: 500ms;
+}
+.salesLast{
+    border-bottom: 1px solid black;
+    padding-bottom: 60px;
+}

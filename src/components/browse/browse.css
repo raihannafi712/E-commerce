@@ -1,0 +1,62 @@
+#browse{
+    padding: 0 0 64px 0;
+}
+.salesOne span{
+    padding-left: 16px !important;
+    font-size: 24px !important;
+    font-weight: 500;
+    color: red; 
+}
+.salesTwo{
+    padding: 24px 0 32px 0 ;
+}
+.one{
+    display: flex !important;
+    justify-content: space-between;
+}
+.next{
+    font-size: 20px;
+    /* margin-left: 8px; */
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    background-color: #F5F5F5;
+    /* padding: 10px; */
+    cursor: pointer;
+    position: absolute;
+    top: -50%;
+    right: 5%;
+}
+.next2{
+    font-size: 20px;
+    /* margin-left: 8px; */
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    background-color: #F5F5F5;
+    /* padding: 10px; */
+    cursor: pointer;
+    position: absolute;
+    top: -50%;
+    right: 10%;
+}
+.flashArrow span{
+    font-size: 20px;
+    margin-left: 8px;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    background-color: #F5F5F5;
+    padding: 10px;
+    cursor: pointer;
+}
+.line{
+    padding-bottom: 64px;
+    border-bottom: 1px solid black;
+}
